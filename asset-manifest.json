@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geektr/static/css/main.e6d97393.css",
+    "main.css": "/geektr/static/css/main.d758ec30.css",
     "main.js": "/geektr/static/js/main.d3af925d.js",
     "static/js/787.b800addf.chunk.js": "/geektr/static/js/787.b800addf.chunk.js",
     "index.html": "/geektr/index.html",
-    "main.e6d97393.css.map": "/geektr/static/css/main.e6d97393.css.map",
+    "main.d758ec30.css.map": "/geektr/static/css/main.d758ec30.css.map",
     "main.d3af925d.js.map": "/geektr/static/js/main.d3af925d.js.map",
     "787.b800addf.chunk.js.map": "/geektr/static/js/787.b800addf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6d97393.css",
+    "static/css/main.d758ec30.css",
     "static/js/main.d3af925d.js"
   ]
 }
